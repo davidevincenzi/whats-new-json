@@ -1,0 +1,48 @@
+{
+    "message": "",
+    "description": "The request was completed successfully.",
+    "code": "completed-successfully",
+    "results": [
+                {
+                "created": "2017-10-31T11:47:13.382157Z",
+                "title_de_CH": "This is some title 1.",
+                "title_en_GB": "This is some title 2.",
+                "title_fr_FR": "This is some title 3.",
+                "title_it_IT": "This is some title 4.",
+                "title_pt_PT": "This is some title 5.",
+                "description_de_CH": "This is some text 1.",
+                "description_en_GB": "This is some text 2.",
+                "description_fr_FR": "This is some text 3.",
+                "description_it_IT": "This is some text 4.",
+                "description_pt_PT": "This is some text 5.",
+                "file": "http://board.sherpany.com/support/whats_new/3f11b563-cce8-40af-a105-74e786a58c7f/file",
+                "file_updated": "2017-10-31T11:47:13.372593Z",
+                "identifier": "3f11b563-cce8-40af-a105-74e786a58c7f",
+                "modified": "2017-10-31T11:47:13.382260Z",
+                "platform": "iOS",
+                "role": "all",
+                "version": "1.0"
+                },
+                {
+                "created": "2017-10-31T11:47:13.382157Z",
+                "title_de_CH": "This is some title 1.",
+                "title_en_GB": "This is some title 2.",
+                "title_fr_FR": "This is some title 3.",
+                "title_it_IT": "This is some title 4.",
+                "title_pt_PT": "This is some title 5.",
+                "description_de_CH": "This is some text 1.",
+                "description_en_GB": "This is some text 2.",
+                "description_fr_FR": "This is some text 3.",
+                "description_it_IT": "This is some text 4.",
+                "description_pt_PT": "This is some text 5.",
+                "file": "http://board.sherpany.com/support/whats_new/3f11b563-cce8-40af-a105-74e786a58c7f/file",
+                "file_updated": "2017-10-31T11:47:13.372593Z",
+                "identifier": "3f11b563-cce8-40af-a105-74e786a58c7f",
+                "modified": "2017-10-31T11:47:13.382260Z",
+                "platform": "iOS",
+                "role": "all",
+                "version": "1.2"
+                }
+                ],
+    "status": "success"
+}
